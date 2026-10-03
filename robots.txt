@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /build.py
+Disallow: /check.py
+Disallow: /README.md
+Sitemap: https://spirirtualaireviews.store/sitemap.xml
